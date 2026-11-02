@@ -7,7 +7,7 @@
     --background-color: rgb(47, 167, 47);
     --text-color: white;
 }
-#WDD131{
+#course-title{
     display: block;
     text-align: center;
     background-color: var(--background-color);
